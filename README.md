@@ -6,12 +6,12 @@ It can do basic commands. You can assign more by yourself, Fully customizable co
 
 **Dependencies-**
 
-`pip install matplotlib`
-`pip install numpy`
-`pip install pyttsx3`
-`pip install speechRecognition`
-`pip install Pyaudio`
-`pip install pypiwin32`
-`pip install wikipedia`
+`pip install matplotlib`  <br>
+`pip install numpy`       <br>
+`pip install pyttsx3`     <br>  
+`pip install speechRecognition` <br>
+`pip install Pyaudio`       <br>
+`pip install pypiwin32`     <br>
+`pip install wikipedia`     <br>
 
 Make sure to run and install these commands on your Windows system in CMD before executing the file on IDE.
