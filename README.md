@@ -1,9 +1,9 @@
 # Ultron-AI
 *Ultron AI Assistant : made via Python*
 
-This is a script bot with Python foundation.
-It can do multi-functional, and can do basic commands too.
-You can assign more by yourself, Fully customizable code.
+This is a script bot with Python foundation. ⚡ <br>
+It is multi-functional chatbot, and can do basic assistant commands. <br>
+You can assign more functions by yourself, Fully customizable code.  🔥
 
 ⮞ Current Compatibility: **Windows 10 or 10+**
 
