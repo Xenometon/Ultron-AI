@@ -6,7 +6,7 @@ It can do basic commands. You can assign more by yourself, Fully customizable co
 
 *Dependencies-*
 
-pip install matplotlib
+`pip install matplotlib`
 pip install numpy
 pip install pyttsx3
 pip install speechRecognition
