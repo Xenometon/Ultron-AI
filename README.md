@@ -46,6 +46,6 @@ You can assign more functions by yourself, has fully customizable code.  🔥
 <br>
 🠮 **Note:**
 <br>
-Install these packages through CMD first.
+Install these above-listed packages through CMD first.
 <br>
 
