@@ -24,7 +24,7 @@ It is multi-functional chatbot, and can do basic assistant commands. <br>
 
 
 <br>
-Ultron AI is a script bot, and uses Microsoft speech packages.
+Ultron is a script bot, and uses Microsoft speech packages.
 <br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 You can assign more functions by yourself, has fully customizable code.  🔥
