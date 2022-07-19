@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5d/d4/d0/5dd4d0f37003eb43a1a4407b0e29bec8.gif">
 <br>
 <br>
-This is a script bot with Python foundation. ⚡ <br>
+This is a script bot with **Python foundation**. ⚡ <br>
 It is multi-functional chatbot, and can do basic assistant commands. <br>
 <br>
 ⤰ **Chatbot Functions:**
@@ -30,7 +30,7 @@ Ultron is a script bot, and uses Microsoft speech packages.
 You can assign more functions by yourself, has fully customizable code.  🔥
 <br>
 <br>
-⮞ Current Compatibility: Windows 10 or 10+
+⮞ Current Compatibility: Windows only, [10 or 10+]
 <br>
 <br>
 
