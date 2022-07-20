@@ -50,3 +50,5 @@ You can assign more functions by yourself, has **customizable code**.  🔥
 Install these above-listed packages through `CMD` first.
 <br>
 
+-----------------
+
