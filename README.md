@@ -1,10 +1,10 @@
 # Ultron-AI
 **Ultron AI Assistant** : *made via Python.*
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Ultron-AI/main/hud-ultron.gif">
 <br>
 <br>
 This is a script bot with **Python foundation**. ⚡ <br>
 It is multi-functional chatbot, and can do basic assistant commands. <br>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Ultron-AI/main/Hud_Ultron-AI.gif">
 <br>
 ⤰ **Chatbot Functions:**
 <br>
