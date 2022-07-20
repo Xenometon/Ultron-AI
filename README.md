@@ -1,6 +1,6 @@
 # Ultron-AI
 **Ultron AI Assistant** : *made via Python.*
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5d/d4/d0/5dd4d0f37003eb43a1a4407b0e29bec8.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Ultron-AI/main/hud-ultron.gif">
 <br>
 <br>
 This is a script bot with **Python foundation**. ⚡ <br>
