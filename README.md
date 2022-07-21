@@ -29,8 +29,8 @@ You can assign more functions by yourself, has **Customizable Code**  🔥
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Ultron-AI/main/Src.png">
 <br>
 <br>
-➛ Dependencies-   
 
+➛ **Dependencies-**   
 ➡️ `pip install numpy`             <br>
 ➡️ `pip install pyttsx3`           <br> 
 ➡️ `pip install Pyaudio`           <br>
