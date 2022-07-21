@@ -24,7 +24,7 @@ Ultron is a script bot, and uses Microsoft speech packages.
 You can assign more functions by yourself, has **Customizable code**.  🔥
 <br>
 <br>
-> **Current Compatibility: Windows only, [10 or 10+]**
+> **Current Compatibility**: Windows: [10 or 10+]
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Ultron-AI/main/Src.png">
 <br>
