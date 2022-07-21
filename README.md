@@ -9,17 +9,11 @@ It is multi-functional chatbot, and can do basic assistant commands. <br>
 ⤰ **Chatbot Functions:**
 <br>
  - Search List
-<br>
  - Search throuh wikipedia
-<br>
  - Wishing/Greetings
-<br>
  - Opening Websites.
-<br>
  - Fetch-Time
-<br>
  - Provide information
-<br>
   and much more...
 
 
