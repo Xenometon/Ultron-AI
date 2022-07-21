@@ -88,10 +88,11 @@ if __name__ == "__main__":
             strTime = datetime.datetime.now().strftime("%H:%M:%S")    
             speak(f"The current time is {strTime}")
 
-        elif 'open youtube' in query:
+        elif 'wikipedia' in query:
             webbrowser.open("https://en.wikipedia.org/wiki/Ultron")
         elif 'who are you' in query:
             speak("I am Ultron A.I. Please tell how may I help you.")
             print("I am Ultron A.I. Please tell how may I help you.")
 
+            #--------------------------------
 #End of the program
