@@ -39,9 +39,9 @@ You can assign more functions by yourself, has **Customizable Code**  🔥
 ➡️ `pip install SpeechRecognition` 
 <br>
 <br>
--> **Note:**
+! **Note:**
 <br>
-Install these above-listed packages through `CMD` first.
+- Install these above-listed packages through `CMD` first.
 <br>
 
 -----------------
