@@ -40,7 +40,7 @@ You can assign more functions by yourself, has **Customizable Code**  🔥
 <br>
 <br>
 * **Note:-**<br>
-**Install these above-listed packages through `CMD` first.**
+> **Install these above-listed packages through `CMD` first.**
 <br>
 
 -----------------
