@@ -8,13 +8,13 @@ It is **multi-functional chatbot, and can do basic assistant commands.** <br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Ultron-AI/main/Hud_Ultron-AI.gif">
 ⤰ **Chatbot Functions:**
 <br>
- - Search List
- - Search throuh wikipedia
- - Wishing/Greetings
- - Opening Websites.
- - Fetch-Time
- - Provide information
-  and much more...
+ - *Search List*
+ - *Search throuh wikipedia*
+ - *Wishing/Greetings*
+ - *Opening Websites.*
+ - *Fetch-Time*
+ - *Provide information*
+  **and much more...**
 
 
 <br>
