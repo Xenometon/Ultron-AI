@@ -34,7 +34,6 @@ You can assign more functions by yourself, has **Customizable Code**  🔥
 ➡️ `pip install numpy`             <br>
 ➡️ `pip install pyttsx3`           <br> 
 ➡️ `pip install Pyaudio`           <br>
-➡️ `pip install pypiwin32`         <br> 
 ➡️ `pip install wikipedia`         <br>
 ➡️ `pip install SpeechRecognition` 
 <br>
