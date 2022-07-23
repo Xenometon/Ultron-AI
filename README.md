@@ -13,7 +13,7 @@ It is **multi-functional chatbot, and can do basic assistant commands.** <br>
  - *Wishing/Greetings*
  - *Opening Websites.*
  - *Fetch-Time*
- - *Provide information*
+ - *Provide information*<br>
   **and much more...**
 
 
