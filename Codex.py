@@ -5,7 +5,6 @@
 #pip install pyttsx3
 #pip install speechRecognition
 #pip install Pyaudio
-#pip install pypiwin32
 #pip install wikipedia
 
 #Code-
