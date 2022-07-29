@@ -81,7 +81,7 @@ if __name__ == "__main__":
             webbrowser.open("google.com")
 
         elif 'open github' in query:
-            webbrowser.open("https://github.com/")   
+            webbrowser.open("https://github.com/Xenometon")   
 
         elif 'the time' in query:
             strTime = datetime.datetime.now().strftime("%H:%M:%S")    
