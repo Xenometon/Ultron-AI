@@ -24,7 +24,7 @@ It is **multi-functional chatbot, and can do basic assistant commands.** <br>
 **Ultron** is a script bot, and uses Microsoft speech packages.
 <br>
 
-You can assign more functions by yourself, has **Customizable Code**  🔥
+- You can assign more functions by yourself, has **Customizable Code**  🔥
 <br>
 <br>
 > **Current Compatibility**: Windows: [10 or 10+]
