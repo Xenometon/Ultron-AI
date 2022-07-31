@@ -11,11 +11,11 @@ This is a script bot with **Python foundation**. ⚡ <br>
 ⤰ **Chatbot Functions:**
 <br>
  - *Search List*
- - *Search throuh wikipedia*
+ - *Search through wikipedia*
  - *Wishing/Greetings*
  - *Opening Websites.*
  - *Fetch-Time*
- - *Provide information*<br>
+ - *Providing information*<br>
   **and much more...**
 
 
