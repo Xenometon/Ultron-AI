@@ -62,7 +62,7 @@ def takeCommand():
 if __name__ == "__main__":
     wishMe()
     while True:
-    # if 1:
+    # if (i):
         query = takeCommand().lower()
 
         # Logic-
@@ -88,10 +88,20 @@ if __name__ == "__main__":
             speak(f"The current time is {strTime}")
 
         elif 'wikipedia' in query:
-            webbrowser.open("https://en.wikipedia.org/wiki/Ultron")
+            webbrowser.open("https://www.wikipedia.org")
         elif 'who are you' in query:
             speak("I am Ultron A.I. Please tell how may I help you.")
-            print("I am Ultron A.I. Please tell how may I help you.")
+            print("I am Ultron. Please vocalize your command...")
+        elif 'your name' in query:
+            speak("My name is Ultron. I am a AI based Assistant.")
+            print("My name is Ultron.")
+        elif 'thank you' in query:
+            speak("Welcome! Please call me if you need any help.")
+            print("This is Ulton, at your assistance...")
+        elif 'calculate' in query:
+            webbrowser.open("https://www.calculator.net")
+            speak("You may use this tool for all your calculation needs.")
+            print("Opening Calculator...")
 
             #--------------------------------
-#End of the program
+# End of the program
