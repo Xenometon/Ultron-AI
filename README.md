@@ -27,7 +27,7 @@
 - You can assign more functions by yourself, has **Customizable Code**  🔥
 <br>
 
-> **Current Compatibility**: Windows: [10 or 10+]
+> **Compatibility**: Windows: [10 or 10+]
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Ultron-AI/main/Engine-2.png">
 <br>
