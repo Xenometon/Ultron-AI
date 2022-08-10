@@ -2,7 +2,7 @@
 **Ultron AI Assistant** : *made via Python.*
 <br>
 <br>
-This is a script bot with **Python foundation**. ⚡ <br>
+**Hello there!** This is a Ultron, a script bot on **Python foundation**. ⚡ <br>
 ✅ It is **multi-functional chatbot, and can do basic assistant commands.** <br>
 <br>
 
