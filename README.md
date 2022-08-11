@@ -1,5 +1,5 @@
 # Ultron-AI
-**Ultron AI Assistant** : *made via Python.*
+⇒ **Ultron AI Assistant** : *made via Python.*
 <br>
 <br>
 **Hello there!** This is a Ultron, a script bot on **Python foundation**. ⚡ <br>
@@ -33,7 +33,7 @@
 <br>
 <br>
 
-➛ **Dependencies-**   
+⇒ **Dependencies-**   
 ➡️ `pip install numpy`             <br>
 ➡️ `pip install pyttsx3`           <br> 
 ➡️ `pip install Pyaudio`           <br>
