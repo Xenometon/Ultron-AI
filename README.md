@@ -24,7 +24,7 @@
 ⇒ **Ultron** is a script bot, and uses Microsoft Speech packages as voice. 💎
 <br>
 
-⚙ You can assign more functions by yourself, has **Customizable Code**  🔥
+⚙ You can assign more functions by yourself, has **fully-customizable code**  🔥
 <br>
 <br>
 
@@ -32,8 +32,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Ultron-AI/main/Engine-2.png">
 <br>
+<br>
 
 ⇒ **Dependencies-**   
+
 ➡️ `pip install numpy`             <br>
 ➡️ `pip install pyttsx3`           <br> 
 ➡️ `pip install Pyaudio`           <br>
