@@ -1,9 +1,9 @@
 # Ultron-AI
-⇒ **Ultron AI Assistant** : *made via Python.*
+⇒ **Ultron AI Assistant** : *made via Python.* 🛠
 <br>
 <br>
 ➡️ **Hello there!** This is a Ultron, a script bot on **Python foundation**. ⚡ <br>
-✅ It is **multi-functional chatbot, and can do most of the assistant commands.** ⚙  <br>
+✅ It is **multi-functional chatbot, and can do most of the assistant commands.** 🔰 <br>
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Ultron-AI/main/Hud_Ultron-AI.gif">
@@ -24,13 +24,13 @@
 ⇒ **Ultron** is a script bot, and uses Microsoft Speech packages as voice. 💎
 <br>
 
-- You can assign more functions by yourself, has **Customizable Code**  🔥
+⚙ You can assign more functions by yourself, has **Customizable Code**  🔥
+<br>
 <br>
 
 > **Compatibility**: Windows: ( 10 or 10+ )
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Ultron-AI/main/Engine-2.png">
-<br>
 <br>
 
 ⇒ **Dependencies-**   
