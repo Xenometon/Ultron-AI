@@ -3,7 +3,7 @@
 <br>
 <br>
 ➡️ **Hello there!** This is a Ultron, a script bot on **Python foundation**. ⚡ <br>
-✅ It is **multi-functional chatbot, and can do basic assistant commands.** <br>
+✅ It is **multi-functional chatbot, and can do most of the assistant commands.** ⚙  <br>
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Ultron-AI/main/Hud_Ultron-AI.gif">
@@ -16,12 +16,12 @@
  - *Opening Websites.*
  - *Fetch-Time*
  - *Providing information*<br>
-  **and much more...**
+ **and much more...**
 
 
 <br>
 
-**⇒ Ultron** is a script bot, and uses Microsoft speech packages.
+⇒ **Ultron** is a script bot, and uses Microsoft Speech packages as voice. 💎
 <br>
 
 - You can assign more functions by yourself, has **Customizable Code**  🔥
