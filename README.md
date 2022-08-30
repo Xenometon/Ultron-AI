@@ -21,7 +21,7 @@
 
 <br>
 
-⇒ **Ultron** is a script bot, and uses Microsoft Speech packages as voice. 💎
+⇒ **Ultron** is a script bot, & uses Microsoft Speech packages as the primary voice. 💎
 <br>
 
 ⚙ You can assign more functions by yourself, has **fully-customizable code**  🔥
