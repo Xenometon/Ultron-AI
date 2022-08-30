@@ -3,7 +3,7 @@
 <br>
 <br>
 ➡️ **Hello there!** This is a Ultron, a script bot on **Python foundation**. ⚡ <br>
-✅ It is **multi-functional chatbot, and can do most of the assistant commands.** 🔰 <br>
+✅ It is a **multi-functional chatbot ; can do most of the assistant commands.** 🔰 <br>
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Ultron-AI/main/Hud_Ultron-AI.gif">
