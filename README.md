@@ -1,5 +1,5 @@
 # Ultron-AI
-⇒ **Ultron AI Assistant** : *made via Python codebase.* 🛠
+⇒ **Ultron AI Assistant** : made via *Python codebase.* 🛠
 <br>
 <br>
 ➡️ **Hello there!** This is a Ultron, a script bot on **Python foundation**. ⚡ <br>
