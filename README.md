@@ -2,8 +2,8 @@
 ⇒ **Ultron AI Assistant** : made via *Python codebase.* 🛠
 <br>
 <br>
-➡️ **Hello there!** This is a Ultron, a **Script bot** on **Python foundation**. ⚡ <br>
-✅ It is a **multi-functional chatbot & can do most of the basic assistant commands.** 🔰 <br>
+➡️ **Hello there!** This is a Ultron, a **Script bot** on **Python foundation** ⚡ <br>
+✅ It is a **multi-functional chatbot & can do most of the basic assistant commands** 🔰 <br>
 <br>
 
 <img align="right" alt="Coding" width="375" src="https://raw.githubusercontent.com/Xenometon/Ultron-AI/main/Hud_Ultron-AI.gif">
@@ -28,7 +28,7 @@
 <br>
 <br>
 
-> **Compatibility**: Windows: ( 10 or 10+ )
+> **Compatibility**: Windows: ( 10 or above )
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/Xenometon/Ultron-AI/main/Engine-2.png">
 <br>
