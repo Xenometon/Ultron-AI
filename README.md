@@ -3,10 +3,10 @@
 <br>
 <br>
 ➡️ **Hello there!** This is a Ultron, a **Script bot** on **Python foundation**. ⚡ <br>
-✅ It is a **multi-functional chatbot & can do most of the assistant commands.** 🔰 <br>
+✅ It is a **multi-functional chatbot & can do most of the basic assistant commands.** 🔰 <br>
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Ultron-AI/main/Hud_Ultron-AI.gif">
+<img align="right" alt="Coding" width="375" src="https://raw.githubusercontent.com/Xenometon/Ultron-AI/main/Hud_Ultron-AI.gif">
 
 ⇒ **Chatbot Functions -**
 <br>
@@ -30,7 +30,7 @@
 
 > **Compatibility**: Windows: ( 10 or 10+ )
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Ultron-AI/main/Engine-2.png">
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/Xenometon/Ultron-AI/main/Engine-2.png">
 <br>
 <br>
 
